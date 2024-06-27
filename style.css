@@ -1,0 +1,45 @@
+div {
+    text-justify: auto;
+}
+
+mark {
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: center;
+    padding: 8px;
+    font-size: 22px;
+}
+
+th {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+#footer {
+    text-align: center;
+}
+
+colgroup .col1 {
+    background-color: brown;
+}
+
+colgroup .col2 {
+    background-color: blue;
+}
+
+colgroup .col3 {
+    background-color: lightgreen;
+}
